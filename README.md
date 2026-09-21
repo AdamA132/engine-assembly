@@ -1,4 +1,4 @@
-# Four-Cylinder Rotating Assembly — SolidWorks
+# Four-Cylinder Rotating Assembly in SolidWorks
 
 A four-cylinder engine rotating assembly modeled from scratch in SolidWorks: every
 component built as an individual part, then mated into an assembly where crankshaft
