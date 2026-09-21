@@ -50,13 +50,10 @@ It does not include a cylinder block, head, or valvetrain.
 ## Files
 
 ```
-parts/        individual .SLDPRT files
-assembly/     the .SLDASM
+Parts/        SolidWorks part files and the .SLDASM assembly
 images/       renders and motion study
 ```
 
-Open `assembly/` in SolidWorks 2024 or later. GitHub cannot preview SolidWorks files
-in the browser, so the renders above are the quickest way to see the model.
 
 ## Tools
 
